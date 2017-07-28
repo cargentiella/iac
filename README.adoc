@@ -1,4 +1,13 @@
 = Infrastructure as Code
 
 
+1. Bootstrapping
+2. Configuration
+3. Orchestration
+
+|====================
+|Name    |URL
+|Chef    |http://www.chef.io/chef/
+|Ansible |http://www.ansible.com/
+|Puppet  |http://puppetlabs.com/
 
