@@ -5,6 +5,17 @@
 2. Configuration
 3. Orchestration
 
+== Bootstrapping
+
+|====================
+|Name       |URL
+|Kickstart  |
+|Cobbler    |
+|OpenStack  |
+|AWS        |
+|====================
+
+
 == Configuration
 
 |====================
